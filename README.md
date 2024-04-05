@@ -62,9 +62,9 @@
 <br>
 <br>
 
-<p align="centre"><b>Visitors Count</b></p> 
+<p align="centre"><b>Contagem de visitantes</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKarinaLivramento&s=40&c=ff9500&bg=00000000&no=2&ff=digi&tb=Visitors%3A++&ta=" alt="visits" /></p>  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKarinaLivramento&s=40&c=ff9500&bg=00000000&no=2&ff=digi&tb=&ta=++Visitantes%21" /></p>  
 <br>
 <br>
 <br> 
