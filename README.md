@@ -14,18 +14,10 @@
 </div>
 
 <div align="center"> 
-  
-<a href="https://www.instagram.com/tecartedev" target="_blank">
-<img align="center" height="60" width="60" src="https://github.com/KarinaLivramento/KarinaLivramento/assets/126778503/47b3684c-c270-4b7f-8cc8-f25c4018bbec">
-</a>
 
-<a href="mailto:karinalivramento@gmail.com">
-<img align="center"  height="60" width="60" src="https://github.com/KarinaLivramento/KarinaLivramento/assets/126778503/4497a8a3-2a48-489a-9edb-cf69ba37f2b1">
-</a>
-
-<a  href="https://www.linkedin.com/in/karina-livramento-8a8a8a71/" target="_blank">
-<img align="center"  height="60" width="60" src="https://github.com/KarinaLivramento/KarinaLivramento/assets/126778503/032e55ff-f48b-4a01-b64f-f984b9ec893c">
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tecartedev)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-livramento-8a8a8a71/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karinalivramento@gmail.com)
 
 </div>
 
